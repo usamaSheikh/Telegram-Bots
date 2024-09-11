@@ -12,6 +12,12 @@ This project demonstrates how to build a Telegram bot to broadcast messages, pro
 - Python 3.x
 - `pyTelegramBotAPI`
 
+### Create a Telegram Bot
+First, you need to create a Telegram bot using BotFather.
+- Open Telegram and search for BotFather.
+- Type /start and follow the instructions to create a new bot.
+- Once the bot is created, BotFather will give you an API token. You’ll need this token to interact with the Telegram API.
+
 ### How to Run:
 1. Install Required Dependencies: You’ll need the pyTelegramBotAPI library to interact with Telegram’s API. Install it using:
 - pip install pyTelegramBotAPI
