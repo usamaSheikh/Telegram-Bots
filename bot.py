@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 from config import TELEGRAM_API_TOKEN
-import logging
+import logging 
 
 # Initialize the bot with the API token
 bot = telebot.TeleBot(TELEGRAM_API_TOKEN)
